@@ -1,0 +1,4 @@
+﻿  string.cpp
+C:\Users\SM-PC\OneDrive\문서\2-2\C특훈\1015\CStringClass\string.cpp(17,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\SM-PC\OneDrive\문서\2-2\C특훈\1015\CStringClass\string.cpp(42,1): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CStringClass.vcxproj -> C:\Users\SM-PC\OneDrive\문서\2-2\C특훈\1015\CStringClass\x64\Debug\CStringClass.exe
